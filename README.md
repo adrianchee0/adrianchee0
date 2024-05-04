@@ -1,5 +1,5 @@
 # ℹ️ About Me:
-🔥 I'm currently working on my **DevOps skills**<br>💡 Always playing in my **Virtual Machine** to learn new things
+🔥 I'm currently working on my **Cloud skills**<br>💡 Always playing in my **Virtual Machine** to learn new things
 
 
 # 🌐 Socials:
